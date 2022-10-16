@@ -3,4 +3,4 @@ result = True and True or False and False
 result = True or False
 result = True
 
-print(src == result)
+print(src == result) 
