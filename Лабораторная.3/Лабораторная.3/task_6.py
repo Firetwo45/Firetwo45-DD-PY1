@@ -7,7 +7,4 @@ for m_ind in range(len(list_numbers)):
         max_index = m_ind
 
 list_numbers[max_index], list_numbers[-1] = list_numbers[-1], list_numbers[max_index]
-print(max(list_numbers))
-print((list_numbers[-1]))
 print(list_numbers)
-
