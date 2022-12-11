@@ -4,3 +4,4 @@ print(list_numbers)
 input(max(list_numbers))
 input((list_numbers[-1]))
 input((list_numbers[9]))
+asdf[pkadsopfkaopsdkopfads
